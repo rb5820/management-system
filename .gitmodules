@@ -1,4 +1,0 @@
-[submodule "mgmtsystem_security_event"]
-	path = mgmtsystem_security_event
-	url = git@github.com:rb5820/mgmtsystem_security_event.git
-	branch = main
