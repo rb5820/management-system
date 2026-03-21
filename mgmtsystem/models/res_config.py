@@ -92,11 +92,6 @@ class MgmtsystemConfigSettings(models.TransientModel):
         "Hazards",
         help="Provide Hazards.\n" "- This installs the module mgmtsystem_hazard.",
     )
-    module_mgmtsystem_security_event = fields.Boolean(
-        "Feared Events",
-        help="Provide Feared Events.\n"
-        "- This installs the module mgmtsystem_security_event.",
-    )
     module_document_page_approval = fields.Boolean(
         "Document Page Approval",
         help="Provide document approval and history. \n"

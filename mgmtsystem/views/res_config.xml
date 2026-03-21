@@ -128,12 +128,6 @@
                             <field name="module_mgmtsystem_hazard" />
                         </setting>
                         <setting
-                            string="Feared Events"
-                            help="Provide a Feared Event documentation category and template."
-                        >
-                            <field name="module_mgmtsystem_security_event" />
-                        </setting>
-                        <setting
                             string="Work Instructions"
                             help="Provide a Work Instruction documentation category and template."
                         >
